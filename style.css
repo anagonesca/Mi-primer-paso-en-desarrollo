@@ -1,0 +1,32 @@
+/* Color de fondo */
+body{
+background-color: #dacdbd;
+font-family: "Sour Gummy", sans-serif;
+font-size: 15px;
+}
+h2{
+    font-size: 20;
+    }
+    h1{text-align: center;
+    font-size: 30;
+    color: #d4486f;
+    }
+.gatitoweb{
+width: 400px;
+border-radius: 1000px;
+}
+.gatitolocal{
+    width: 350px;
+    border-radius: 50px;
+    border: double;
+}
+.cuidados{
+  background-image: url(https://media.istockphoto.com/id/1189999060/es/vector/ilustraci%C3%B3n-de-stock-de-animal-paw-seamless-pattern.jpg?s=612x612&w=0&k=20&c=cG5fdowCDCOVY10Lf1DEOdeTwkEm4lygRCaczZ_bjNo=);
+   font-size: 20px;
+   color: #e37c99;
+}
+.imagenes{
+text-align: center;
+}
+
+
